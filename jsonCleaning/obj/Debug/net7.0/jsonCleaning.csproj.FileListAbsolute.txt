@@ -1,0 +1,17 @@
+C:\Users\celer\source\exercises\jsonCleaning\obj\Debug\net7.0\jsonCleaning.csproj.AssemblyReference.cache
+C:\Users\celer\source\exercises\jsonCleaning\obj\Debug\net7.0\jsonCleaning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celer\source\exercises\jsonCleaning\obj\Debug\net7.0\jsonCleaning.AssemblyInfoInputs.cache
+C:\Users\celer\source\exercises\jsonCleaning\obj\Debug\net7.0\jsonCleaning.AssemblyInfo.cs
+C:\Users\celer\source\exercises\jsonCleaning\obj\Debug\net7.0\jsonCleaning.csproj.CoreCompileInputs.cache
+C:\Users\celer\source\exercises\jsonCleaning\bin\Debug\net7.0\jsonCleaning.exe
+C:\Users\celer\source\exercises\jsonCleaning\bin\Debug\net7.0\jsonCleaning.deps.json
+C:\Users\celer\source\exercises\jsonCleaning\bin\Debug\net7.0\jsonCleaning.runtimeconfig.json
+C:\Users\celer\source\exercises\jsonCleaning\bin\Debug\net7.0\jsonCleaning.dll
+C:\Users\celer\source\exercises\jsonCleaning\bin\Debug\net7.0\jsonCleaning.pdb
+C:\Users\celer\source\exercises\jsonCleaning\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\celer\source\exercises\jsonCleaning\obj\Debug\net7.0\jsonCleaning.csproj.CopyComplete
+C:\Users\celer\source\exercises\jsonCleaning\obj\Debug\net7.0\jsonCleaning.dll
+C:\Users\celer\source\exercises\jsonCleaning\obj\Debug\net7.0\refint\jsonCleaning.dll
+C:\Users\celer\source\exercises\jsonCleaning\obj\Debug\net7.0\jsonCleaning.pdb
+C:\Users\celer\source\exercises\jsonCleaning\obj\Debug\net7.0\jsonCleaning.genruntimeconfig.cache
+C:\Users\celer\source\exercises\jsonCleaning\obj\Debug\net7.0\ref\jsonCleaning.dll

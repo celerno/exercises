@@ -1,0 +1,15 @@
+C:\Users\celer\source\exercises\examen\bin\Debug\net7.0\examen.exe
+C:\Users\celer\source\exercises\examen\bin\Debug\net7.0\examen.deps.json
+C:\Users\celer\source\exercises\examen\bin\Debug\net7.0\examen.runtimeconfig.json
+C:\Users\celer\source\exercises\examen\bin\Debug\net7.0\examen.dll
+C:\Users\celer\source\exercises\examen\bin\Debug\net7.0\examen.pdb
+C:\Users\celer\source\exercises\examen\obj\Debug\net7.0\examen.csproj.AssemblyReference.cache
+C:\Users\celer\source\exercises\examen\obj\Debug\net7.0\examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celer\source\exercises\examen\obj\Debug\net7.0\examen.AssemblyInfoInputs.cache
+C:\Users\celer\source\exercises\examen\obj\Debug\net7.0\examen.AssemblyInfo.cs
+C:\Users\celer\source\exercises\examen\obj\Debug\net7.0\examen.csproj.CoreCompileInputs.cache
+C:\Users\celer\source\exercises\examen\obj\Debug\net7.0\examen.dll
+C:\Users\celer\source\exercises\examen\obj\Debug\net7.0\refint\examen.dll
+C:\Users\celer\source\exercises\examen\obj\Debug\net7.0\examen.pdb
+C:\Users\celer\source\exercises\examen\obj\Debug\net7.0\examen.genruntimeconfig.cache
+C:\Users\celer\source\exercises\examen\obj\Debug\net7.0\ref\examen.dll

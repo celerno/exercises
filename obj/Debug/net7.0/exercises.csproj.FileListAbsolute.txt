@@ -1,0 +1,5 @@
+C:\Users\celer\source\exercises\obj\Debug\net7.0\exercises.csproj.AssemblyReference.cache
+C:\Users\celer\source\exercises\obj\Debug\net7.0\exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celer\source\exercises\obj\Debug\net7.0\exercises.AssemblyInfoInputs.cache
+C:\Users\celer\source\exercises\obj\Debug\net7.0\exercises.AssemblyInfo.cs
+C:\Users\celer\source\exercises\obj\Debug\net7.0\exercises.csproj.CoreCompileInputs.cache
